@@ -1,6 +1,6 @@
 # Next.js 14 Firebase Authentication (Google, GitHub, Email) Tutorial
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68996d7b4abd2d3e44c0ac8b/nextjs-14-firebase-authentication-google-github-email-tutorial).
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
